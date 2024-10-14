@@ -1,6 +1,6 @@
 # NSS VIIT Official Website [![Visit NSS VIIT Official Website](https://img.shields.io/badge/Visit%20NSS%20VIIT%20Website-Vercel-blue)](https://nss.viit.ac.in/)
 
-The official website of **NSS VIIT** built using **React** and **CSS** to showcase the activities and events of the NSS .
+The official website of **NSS VIIT** built using **React** and **CSS** to showcase the activities and events of the NSS community.
 
 ## Features  
 - **Events and activities showcase**: The website highlights **NSS events**, past and upcoming activities, and initiatives taken by the NSS community.
