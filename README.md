@@ -3,7 +3,7 @@
 The official website of **NSS VIIT** built using **React** and **CSS** to showcase the activities and events of the NSS community.
 
 ## Features  
-- **Events and activities showcase**: The website highlights **NSS events**, past and upcoming activities, and initiatives taken by the NSS community.
+- **Events and activities showcase**: The website highlights **NSS events**, past and upcoming activities, and initiatives taken by the NSS VIIT community.
   
 - **Contact form**: A contact form is integrated, allowing **NSS volunteers** and interested individuals to reach out directly.
 
